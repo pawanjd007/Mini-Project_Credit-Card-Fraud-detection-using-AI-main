@@ -32,7 +32,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - Deploy the system using cloud services.  
 
 ## Contributors
- [Arun Reddy](https://github.com/Arun-reddy22)  
+ [Javvadi Durga Pawan](https://github.com/pawanjd007)  
 
 ## License
 This project is licensed under the MIT License.  
